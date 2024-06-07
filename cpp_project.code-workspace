@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Documents/Python Programming"
+		},
+		{
+			"path": "../Pointers(19.01.23)DSA"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"Unions.C": "cpp",
+			"iostream": "cpp",
+			"ostream": "cpp"
+		}
+	}
+}
