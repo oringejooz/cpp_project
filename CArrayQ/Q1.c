@@ -11,7 +11,6 @@ input 10 elements in the array*/
 
 int main(){
     int n;
-    
     printf("Enter number of elements in the array ");
     scanf("%d",&n);
     int arr[n];
